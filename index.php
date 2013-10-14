@@ -1,6 +1,5 @@
 <?php
 /**
- * test commita
  * Requests collector.
  *
  *  This file collects requests if:
